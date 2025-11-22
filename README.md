@@ -2,7 +2,7 @@
 
 First you need to install love engine (which has Lua enging in it).
 
-    `brew install love`
+    brew install love
 
 That should install Love 2d engine and Lua JIT.
 
@@ -10,6 +10,6 @@ Now in order to run a game from command line with Love 2d engine, the console co
 
 Accordingly, to run this simulation and play with it, do:
 
-    `love src`
+    love src
 
 Then you can left click to add one circle, or right click to add 5. And on and on...
